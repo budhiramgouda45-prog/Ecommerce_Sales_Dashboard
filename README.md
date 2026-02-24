@@ -84,9 +84,6 @@ To help e-commerce businesses analyze sales, revenue, and profit trends, underst
 **Budhiram Gouda** – Fresher Data Analyst  
 LinkedIn: www.linkedin.com/in/budhiram-gouda
 
----
 
-## Notes
-- Ensure **Power BI Desktop** is installed to open the dashboard.  
-- Data files are cleaned and ready for analysis.  
-- This project demonstrates **data visualization, SQL, analysis, and business insight skills** suitable for a fresher data analyst portfolio.
+
+
