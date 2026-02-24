@@ -67,8 +67,8 @@ To help e-commerce businesses analyze sales, revenue, and profit trends, underst
 ---
 
 ## Screenshots
+ https://github.com/budhiramgouda45-prog/Ecommerce_Sales_Dashboard/blob/main/Dashboard_Screenshot1.png
  
-
 
 ---
 
