@@ -1,10 +1,31 @@
 # E-commerce Sales Dashboard
 
-## Project Summary / Objective
-This project is a **comprehensive E-commerce Sales Dashboard** built using **Power BI**.  
+## Project Overview
+This project is a **comprehensive E-commerce Sales Dashboard** built using **Power BI** to transform raw sales data into actionable business insights.  
 
 **Objective:**  
-To help e-commerce businesses analyze sales, revenue, and profit trends, understand customer behavior, and identify top-performing products and categories. The dashboard demonstrates my skills in **data analysis, visualization, SQL, and business insights** as a fresher data analyst.
+To help e-commerce businesses analyze **sales, revenue, and profit trends**, understand **customer behavior**, and identify **top-performing products and categories**. The dashboard demonstrates my skills in **data analysis, data visualization, SQL, and business intelligence** as a fresher data analyst.
+
+---
+
+## Storytelling & Key Insights
+Through this dashboard, I uncovered important patterns and business opportunities:
+
+1. **Category & Product Performance:**  
+   - The **Technology** category drives the highest revenue ($0.73M), while **Office Supplies** contribute the least ($0.56M).  
+   - Among products, **Canon** items sell the most, and **Copiers** generate the highest profit margin, highlighting profitable product lines.
+
+2. **Time-Based Trends:**  
+   - Sales in **February** are low ($0.0M), while **November** peaks ($0.3M), showing strong **seasonal demand**.  
+   - Monthly trends help businesses plan promotions and inventory for peak periods.
+
+3. **Regional Performance:**  
+   - **East and West regions** outperform others, suggesting areas for targeted marketing campaigns.  
+
+4. **Customer Segments:**  
+   - The **Consumer segment** contributes the most sales, highlighting key audiences for retention and upselling strategies.
+
+This narrative approach transforms raw metrics into **business insights**, demonstrating analytical thinking and storytelling — a critical skill for data analysts.
 
 ---
 
@@ -13,27 +34,28 @@ To help e-commerce businesses analyze sales, revenue, and profit trends, underst
 - **Profit Analysis:** Monitor profit margins and identify high/low-performing products.  
 - **Customer Insights:** Analyze top customers, order trends, and purchasing behavior.  
 - **Product & Category Analysis:** Discover best-selling products and categories.  
-- **Time-Based Trends:** Observe monthly and yearly sales trends.  
-- **Interactive Visuals:** Filters and slicers allow dynamic exploration of data.
+- **Time-Based Trends:** Observe monthly and yearly sales patterns.  
+- **Interactive Visuals:** Filters and slicers allow dynamic exploration of data.  
 
 ---
 
 ## Key Metrics / KPIs
-- Total Sales: $1.94M
-- Total Profit: $222K
-- Profit Margin: 11%  
-- Top 5 Products by Revenue  
-- Top 5 Customer Segments  
-- Monthly and Yearly Sales Trends  
+- **Total Sales:** $1.94M  
+- **Total Profit:** $222K  
+- **Profit Margin:** 11%  
+- Top 10 Products by Revenue  
+- Top Customer Segments  
+- Monthly Sales Trends  
 
 ---
 
 ## Tools & Skills Applied
-- **Power BI Desktop** – Dashboard creation and visualization  
-- **Excel / CSV** – Data cleaning and preparation  
-- **SQL** – Data extraction, aggregation, and preparation  
-- **DAX (Data Analysis Expressions)** – Measures and calculations   
-- **Skills Demonstrated:** Data Cleaning, Data Modeling, SQL Queries, Dashboard Design, Analytical Thinking, Visual Analytics  
+- **Power BI Desktop:** Dashboard creation and interactive visualization  
+- **Excel / CSV:** Data cleaning and preparation  
+- **SQL:** Data extraction, aggregation, and preparation  
+- **DAX (Data Analysis Expressions):** Custom measures and calculations  
+
+**Skills Demonstrated:** Data Cleaning, Data Modeling, SQL Queries, Dashboard Design, Analytical Thinking, Visual Analytics, Storytelling with Data
 
 ---
 
@@ -41,52 +63,45 @@ To help e-commerce businesses analyze sales, revenue, and profit trends, underst
 | File | Description |
 |------|-------------|
 | `E‑Commerce Sales Analysis Dashboard.pbix` | Main Power BI dashboard file |
-| `Sales_Data.csv` / `Cleaned_Ecommerce_Data.csv` | Data used for the dashboard |
-| `Ecom_Sales_Query.sql` | SQL queries used to extract and prepare data for the dashboard |
-| `Dashboard_Screenshot1.png` | Screenshot showing the overview of the dashboard |
-| `Dashboard_Screenshot2.png` | Screenshot showing detailed analysis visuals |
+| `Sales_Data.csv` / `Cleaned_Ecommerce_Data.csv` | Dataset used for analysis |
+| `Ecom_Sales_Query.sql` | SQL queries used to extract and prepare data |
+| `Dashboard_Screenshot1.png` | Overview of the dashboard |
+| `Dashboard_Screenshot2.png` | Detailed analysis visuals |
 | `README.md` | Project documentation |
 
 ---
 
 ## How to Use
 1. Install **Power BI Desktop**.  
-2. Open the `.pbix` dashboard file provided in the repository.  
-3. Load the corresponding data file(s) if prompted.  
-4. Use slicers, filters, and charts to explore sales, profit, and customer trends.  
-5. Optionally, view the `Ecom_Sales_Query.sql` file to understand how the data was prepared for analysis.
-
----
-
-## Insights (High-Level)
-- Highlights **top-selling products and categories**.  
-- Shows **profit trends** across different segments.  
-- Identifies **key customer segments** driving revenue.  
-- Provides **monthly and seasonal sales patterns** to support decision-making.
-
----
-
-## Screenshots
-<img width="874" height="495" alt="Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/561943b3-6ad5-475f-b084-f6b8253795f6" />
-
-<img width="871" height="491" alt="Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/8e5c8f1a-be88-4c42-b098-153dc5f8d4e7" />
-
- 
+2. Open the `.pbix` dashboard file in Power BI.  
+3. Load the corresponding data file(s).  
+4. Use **filters, slicers, and charts** to explore sales, profit, and customer trends.  
+5. Optionally, view `Ecom_Sales_Query.sql` to understand how the data was prepared.
 
 ---
 
 ## Challenges & Learnings
-- Learned how to create dynamic **DAX measures** for profit analysis.  
-- Managed and cleaned datasets in Excel before importing into Power BI.  
-- Prepared data using **SQL queries** for aggregation and reporting.  
-- Designed interactive visuals for easy business insights interpretation.  
+- Created dynamic **DAX measures** for profit and margin analysis.  
+- Cleaned and managed datasets in **Excel** before importing into Power BI.  
+- Prepared and aggregated data using **SQL queries**.  
+- Designed **interactive visuals** to effectively communicate insights.  
+- Learned how to **tell a business story** using sales data to guide decisions.
+
+---
+
+## Screenshots
+<img width="874" height="495" alt="Dashboard_Screenshot1" src="images/dashboard_overview.png" />  
+
+<img width="871" height="491" alt="Dashboard_Screenshot2" src="images/dashboard_details.png" />  
+
+---
+
+## Conclusion
+This project demonstrates the ability to **transform raw data into actionable insights** and present them in an **interactive, understandable dashboard**. It highlights **key skills for a data analyst**, including data cleaning, analysis, visualization, and storytelling, making it a strong portfolio piece for fresher-level roles.
 
 ---
 
 ## Author
 **Budhiram Gouda** – Fresher Data Analyst  
-LinkedIn: www.linkedin.com/in/budhiram-gouda
-
-
-
-
+LinkedIn: [www.linkedin.com/in/budhiram-gouda](https://www.linkedin.com/in/budhiram-gouda)  
+GitHub: [Ecommerce Sales Dashboard](https://github.com/budhiramgouda45-prog/Ecommerce_Sales_Dashboard)
