@@ -90,9 +90,10 @@ This narrative approach transforms raw metrics into **business insights**, demon
 ---
 
 ## Screenshots
-<img width="874" height="495" alt="Dashboard_Screenshot1" src="images/dashboard_overview.png" />  
+<img width="874" height="495" alt="Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/ed143e6e-1176-4fb9-a552-2604654ea8d7" />
+<img width="871" height="491" alt="Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/c207ecbb-cd9b-49e8-b660-04691920bc13" />
 
-<img width="871" height="491" alt="Dashboard_Screenshot2" src="images/dashboard_details.png" />  
+
 
 ---
 
